@@ -1,0 +1,14 @@
+.filterSection{
+    width: 20%;
+}
+
+.profileCard{
+    width: 60%;
+}
+
+.chatSection{
+    width: 20%;
+}
+.profileSection{
+    display: flex;
+}

@@ -1,0 +1,15 @@
+.profileSection{
+    display: flex;
+    justify-content: space-between;
+}
+
+.profileSectionHeader{
+    display: flex;
+    gap: 20px;
+}
+
+
+.profileSectionShare{
+    display: flex;
+    gap: 20px;
+}

@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+
+
+
+
+/* styles/globals.css or a specific CSS file */
+.swiper-pagination-bullet {
+    background-color: #000; /* Customize the bullet color */
+    
+}
